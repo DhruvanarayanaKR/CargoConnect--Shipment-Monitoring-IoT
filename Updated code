@@ -8,15 +8,15 @@
 
 
 // Replace with your network credentials
-const char* ssid = "OnePlus Nord2 5G"; //WiFi Name
-const char* password = "00000000"; //WiFi Password
+const char* ssid = "*********"; //WiFi Name
+const char* password = "********"; //WiFi Password
 
 
 // Use @myidbot to find out the chat ID of an individual or a group
 // You need to click "start" on a bot before it can message you
 // Initialize Telegram BOT
-String chatId = "7681218343";
-String BOTtoken = "7681218343:AAHb2_aFEnJXIRbe8a2hT-cLfH-PGMXfYE8";
+String chatId = "*******";
+String BOTtoken = "*************";
 
 
 bool sendPhoto = false;
